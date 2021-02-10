@@ -2,7 +2,7 @@
 
 ### Summary
 
-    The following project was made in JavaScript using AJAX and JSON files requested to the GitHub external API.
+    The following project was made in JavaScript using AJAX and JSON files requested to the GitHub's external API.
 
     The project consist in a GitHub user's finder. The App search for an specific user on GitHub.com and returns the following information about that user:
 
